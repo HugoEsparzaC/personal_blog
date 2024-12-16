@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>DataEngineering on HugoEsparzaC</title>
+    <link>//localhost:1313/tags/dataengineering/</link>
+    <description>Recent content in DataEngineering on HugoEsparzaC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 16:37:46 -0600</lastBuildDate>
+    <atom:link href="//localhost:1313/tags/dataengineering/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 01</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 05 Dec 2024 16:37:46 -0600</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hola&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>

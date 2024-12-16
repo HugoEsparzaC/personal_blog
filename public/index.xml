@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>HugoEsparzaC</title>
+    <link>//localhost:1313/</link>
+    <description>Recent content on HugoEsparzaC</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Thu, 05 Dec 2024 16:37:46 -0600</lastBuildDate>
+    <atom:link href="//localhost:1313/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Day 01</title>
+      <link>//localhost:1313/posts/my-first-post/</link>
+      <pubDate>Thu, 05 Dec 2024 16:37:46 -0600</pubDate>
+      <guid>//localhost:1313/posts/my-first-post/</guid>
+      <description>&lt;p&gt;Hola&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>About</title>
+      <link>//localhost:1313/about/about/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      <guid>//localhost:1313/about/about/</guid>
+      <description>&lt;hr&gt;&#xA;&lt;p&gt;&lt;em&gt;If you try to make such projects, unseen by others, as perfect as any human could, you&amp;rsquo;ll develop skills that other professionals don&amp;rsquo;t have.&lt;/em&gt;&lt;/p&gt;&#xA;&lt;p&gt;&lt;em&gt;&amp;mdash; Steve Wozniak&lt;/em&gt;&lt;/p&gt;&#xA;&lt;hr&gt;&#xA;&lt;p&gt;Hi, I’m Hugo Esparza, a university student majoring in Computer Science. I’m passionate about the fascinating world of data and the endless possibilities it offers.&lt;/p&gt;&#xA;&lt;p&gt;Currently, I’m diving deep into data engineering and backend development, while also exploring areas like data analysis, data science, artificial intelligence, and automation.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
